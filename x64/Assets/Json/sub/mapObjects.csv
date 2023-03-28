@@ -1,0 +1,3 @@
+modelName,layerType,posX,posY,posZ,rotX,rotY,rotZ,scaleX,scaleY,scaleZ,lock,show,alpha
+Camera,Camera,-46.70622635,30.39669609,-59.89141464,26.29936218,32.54182053,0,-46.22399139,29.95363426,-59.13567352,FALSE,FALSE,FALSE
+true_pumpkin_king,Layer_character,0,0,0,0,180,0,0.7,0.7,0.7,FALSE,TRUE,FALSE

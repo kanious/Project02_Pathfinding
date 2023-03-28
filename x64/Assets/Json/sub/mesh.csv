@@ -1,0 +1,3 @@
+ID,Path,FileName,DataType,Shader_ID,InitSize,MeshType,Load_Assimp,Texture_ID_Diff,Texture_ID_Normal
+true_pumpkin_king,Mesh\sub\,pumpkin_king.fbx,2,MeshShader,0.7,character,TRUE,true_pumpkinking_Tex,
+tile,Mesh\sub\,floor_A.ply,2,MeshShader,0.05,tile,FALSE,tile_black_Tex,

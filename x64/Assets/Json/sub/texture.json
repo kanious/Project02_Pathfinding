@@ -1,0 +1,32 @@
+[
+ {
+   "ID": "true_pumpkinking_Tex",
+   "Path": "Texture\\sub\\",
+   "FileName": "pumpkin_king_diffuse.png"
+ },
+ {
+   "ID": "tile_black_Tex",
+   "Path": "Texture\\sub\\",
+   "FileName": "tile_black.png"
+ },
+ {
+   "ID": "tile_white_Tex",
+   "Path": "Texture\\sub\\",
+   "FileName": "tile_white.png"
+ },
+ {
+   "ID": "tile_green_Tex",
+   "Path": "Texture\\sub\\",
+   "FileName": "tile_green.png"
+ },
+ {
+   "ID": "tile_blue_Tex",
+   "Path": "Texture\\sub\\",
+   "FileName": "tile_blue.png"
+ },
+ {
+   "ID": "tile_red_Tex",
+   "Path": "Texture\\sub\\",
+   "FileName": "tile_red.png"
+ }
+]
